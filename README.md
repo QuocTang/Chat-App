@@ -5,6 +5,7 @@ Front-End: ReactJs, Chakra-ui, LottieFiles, Socket.io-client.
 Back-End: NodeJs, JWT, Socket.io, MongoDB, NodeMailer.
 
 Features:
+
 	Sign In, Sign Up (upload avatar), Log Out.
 	View Profile.
 	Chat 1-1 (user - user).
