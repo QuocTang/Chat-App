@@ -16,17 +16,17 @@ Features:
 	
 	Typing Messages.
 	
-	Update, Delete, Add User In Group (only admin).
+	Update, Delete, Add User In a Group (only admin).
 	
-	Update, Delete, Add Group Chat.
+	Update, Delete, Add a Group Chat.
 	
-	Leave Group Chat.
+	Leave a Group Chat.
 	
-	Rename Group Chat.
+	Rename a Group Chat.
 	
 	Search Members.
 	
-	New Messages Notifications.
+	New Message Notifications.
 	
 	Sign In To Your Email To Verify Your Account.
 
