@@ -14,7 +14,7 @@ Features:
 	
 	Chat 1-n (group chat).
 	
-	Typing Loading Messages.
+	Typing Messages.
 	
 	Update, Delete, Add User In Group (only admin).
 	
@@ -24,7 +24,7 @@ Features:
 	
 	Rename Group Chat.
 	
-	Search Member.
+	Search Members.
 	
 	New Messages Notifications.
 	
